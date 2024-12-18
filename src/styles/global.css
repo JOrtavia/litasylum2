@@ -1,11 +1,11 @@
 /* Global styles */
 :root {
-    --background: #1e1e2e; 
-    --background-light: #fdebf3;
-    --button: #78c2ad;
-    --text: #fdebf3;
-    --text-light: #1e1e2e; 
-    --text-link: #78c2ad;
+    --background: #1f400a; 
+    --background-light: #cbb397;
+    --button: #b24d3e;
+    --text: #d1dc3;
+    --text-light: #80800; 
+    --text-link: #f2a65a;
     --underline: #375a7f;
     --header: 'Pacifico', cursive;
     --body: 'Josefin Sans', sans-serif; 
