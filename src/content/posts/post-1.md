@@ -13,10 +13,6 @@ I am a former bookseller, writer, and future librarian with an interest in genre
   <img class="pro-img" width="500px" height="281" src="/public/bb_stack.png" alt="First Image" />
 </div>
 
-Vivamus sed faucibus lorem. Aenean a lorem convallis, ultrices nisl vitae, imperdiet elit. Duis in tristique lacus. Quisque sollicitudin dolor ac dui faucibus, ut tincidunt velit blandit. Donec tincidunt metus eros, at dignissim enim blandit ut. Cras varius tincidunt tortor ac tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a ipsum quis nulla commodo pretium. Ut sed sem bibendum, facilisis dolor sit amet, interdum nibh. Aliquam id auctor dolor. In nulla diam, mattis quis nisl et, aliquam interdum quam. Donec lobortis ex arcu, ac pharetra ante vehicula euismod. Donec finibus faucibus felis vitae facilisis.
+The above photo consists of several books that are 400 pages and longer. I will be reading at least one of these per month because I have a page count goal 20,000 pages. That's right! I'm going to focus on page count rather than number of books but I do have a reading goal of 36 books. To break it down, I'm planning on reading 12 big books, 12 audiobooks, and 12 smaller books or books less than 400 pages. If you would like to keep up with how I'm doing, I just joined The Storygraph as thelitasylum. Come be my friend! Or you can just follow me on Instagram at literary_asylum. I'll be there! Of course, I will be here too, posting my reviews so stay tuned!
 
-<div class="center">
-  <img class="pro-img" width="500px" height="281" src="/image-2.webp" alt="Second Image" />
-</div>
 
-Vivamus sed faucibus lorem. Aenean a lorem convallis, ultrices nisl vitae, imperdiet elit. Duis in tristique lacus. Quisque sollicitudin dolor ac dui faucibus, ut tincidunt velit blandit. Donec tincidunt metus eros, at dignissim enim blandit ut. Cras varius tincidunt tortor ac tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a ipsum quis nulla commodo pretium. Ut sed sem bibendum, facilisis dolor sit amet, interdum nibh. Aliquam id auctor dolor. In nulla diam, mattis quis nisl et, aliquam interdum quam. Donec lobortis ex arcu, ac pharetra ante vehicula euismod. Donec finibus faucibus felis vitae facilisis.
